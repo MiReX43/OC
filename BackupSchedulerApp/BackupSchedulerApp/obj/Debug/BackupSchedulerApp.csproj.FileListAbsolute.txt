@@ -1,0 +1,10 @@
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\obj\Debug\BackupSchedulerApp.csproj.AssemblyReference.cache
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\obj\Debug\BackupSchedulerApp.BackupSchedulerForm.resources
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\obj\Debug\BackupSchedulerApp.Properties.Resources.resources
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\obj\Debug\BackupSchedulerApp.csproj.GenerateResource.cache
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\obj\Debug\BackupSchedulerApp.csproj.CoreCompileInputs.cache
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\bin\Debug\BackupSchedulerApp.exe.config
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\bin\Debug\BackupSchedulerApp.exe
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\bin\Debug\BackupSchedulerApp.pdb
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\obj\Debug\BackupSchedulerApp.exe
+C:\Users\dengi\source\OC\BackupSchedulerApp\BackupSchedulerApp\obj\Debug\BackupSchedulerApp.pdb
