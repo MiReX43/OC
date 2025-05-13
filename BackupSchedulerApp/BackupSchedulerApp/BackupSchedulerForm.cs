@@ -6,6 +6,7 @@ using System.Security.Principal; // Для проверки прав админ�
 using System.Text;
 using System.Windows.Forms;
 using Microsoft.Win32.TaskScheduler; // NuGet: TaskSchedulerEditor
+using System.Threading.Tasks; // Для асинхронного выполнения
 
 namespace BackupSchedulerApp
 {
@@ -78,7 +79,7 @@ namespace BackupSchedulerApp
 
         private void InitializeCustomComponents()
         {
-            this.Text = "Windows System Backup Scheduler";
+            this.Text = "Windows System Backup Scheduler v4";
             this.ClientSize = new System.Drawing.Size(600, 520);
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
@@ -220,19 +221,41 @@ namespace BackupSchedulerApp
         }
 
 
-        private void BtnTestBackup_Click(object sender, EventArgs e)
+        private async void BtnTestBackup_Click(object sender, EventArgs e) // Сделали метод async void
         {
             txtLog.Clear();
             if (!ValidateDestinationPath()) return;
-            if (string.IsNullOrEmpty(psScriptPath))
+            if (string.IsNullOrEmpty(psScriptPath) || !File.Exists(psScriptPath)) // Проверка существования файла скрипта
             {
-                AppendLogTextSafe("ERROR: PowerShell script path is not set. Cannot run backup.\r\n");
+                AppendLogTextSafe("ERROR: PowerShell script path is not set or script file not found. Cannot run backup.\r\n");
                 return;
             }
 
             AppendLogTextSafe("Starting manual test backup...\r\n");
-            RunBackupProcess(txtDestinationPath.Text, chkCreateRestorePoint.Checked, chkIncludeAllCritical.Checked);
+
+            // Деактивируем кнопки на время выполнения, чтобы избежать повторных нажатий
+            btnTestBackup.Enabled = false;
+            btnSaveSchedule.Enabled = false;
+
+            try
+            {
+                // Вызываем асинхронный метод и ждем его завершения
+                await RunBackupProcess(txtDestinationPath.Text, chkCreateRestorePoint.Checked, chkIncludeAllCritical.Checked);
+                AppendLogTextSafe("Test backup process has been initiated. Monitor the log for output from the script.\r\n");
+            }
+            catch (Exception ex)
+            {
+                AppendLogTextSafe($"An error occurred while trying to start the backup process: {ex.Message}\r\n");
+            }
+            finally
+            {
+                // Активируем кнопки обратно после завершения (или ошибки)
+                btnTestBackup.Enabled = true;
+                btnSaveSchedule.Enabled = true;
+            }
         }
+
+
 
         private void BtnSaveSchedule_Click(object sender, EventArgs e)
         {
@@ -394,6 +417,7 @@ namespace BackupSchedulerApp
             string fullPsScriptPath = Path.Combine(appDir, scriptFileName);
 
             string scriptContent = @"
+""[$(Get-Date)] СКРИПТ ЗАПУЩЕН"" | Out-File ""C:\SystemBackupLog.txt"" -Append
 param(
     [string]$DestinationPath,
     [switch]$CreateRestorePoint,
@@ -499,7 +523,7 @@ if ($IncludeAllCritical) {
 Write-Log ""Executing: wbadmin.exe $($wbadminArgs -join ' ')""
 
 try {
-    $process = Start-Process ""wbadmin.exe"" -ArgumentList $wbadminArgs -Wait -PassThru -NoNewWindow -WindowStyle Hidden
+    $process = Start-Process ""wbadmin.exe"" -ArgumentList $wbadminArgs -Wait -PassThru 
     
     if ($process.ExitCode -eq 0) {
         Write-Log ""Windows System Backup completed successfully.""
@@ -523,6 +547,7 @@ catch {
 }
 
 Write-Log ""System Backup script finished.""
+""[$(Get-Date)] СКРИПТ ЗАВЕРШЁН"" | Out-File ""C:\SystemBackupLog.txt"" -Append
 ";
             try
             {
@@ -536,12 +561,13 @@ Write-Log ""System Backup script finished.""
             return fullPsScriptPath;
         }
 
-        private void RunBackupProcess(string destinationPath, bool createRestorePoint, bool includeAllCritical)
+        private async System.Threading.Tasks.Task RunBackupProcess(string destinationPath, bool createRestorePoint, bool includeAllCritical) // Указали полный путь для Task
         {
+            // Проверка существования файла скрипта (дублируется, но здесь тоже полезна)
             if (string.IsNullOrEmpty(psScriptPath) || !File.Exists(psScriptPath))
             {
-                AppendLogTextSafe("ERROR: PowerShell backup script not found or not prepared.\r\n");
-                return;
+                AppendLogTextSafe("ERROR: PowerShell backup script not found or not prepared at RunBackupProcess.\r\n");
+                return; // Возвращаем Task.CompletedTask или просто return для async Task void-like методов
             }
 
             StringBuilder args = new StringBuilder();
@@ -558,42 +584,65 @@ Write-Log ""System Backup script finished.""
                 RedirectStandardOutput = true,
                 RedirectStandardError = true,
                 CreateNoWindow = true,
-                // Verb = "runas" // Для тестового запуска, если приложение не от админа. Но лучше запускать само приложение от админа.
+                // Verb = "runas" // Оставляем закомментированным, т.к. приложение должно быть уже запущено от администратора
             };
 
-            AppendLogTextSafe($"Executing: powershell.exe {args.ToString()}\r\n");
+            AppendLogTextSafe($"Executing (async): powershell.exe {args.ToString()}\r\n");
 
             try
             {
-                using (Process p = new Process())
+                using (Process process = new Process())
                 {
-                    p.StartInfo = psi;
-                    p.OutputDataReceived += (sender, e) => { if (e.Data != null) AppendLogTextSafe(e.Data + "\r\n"); };
-                    p.ErrorDataReceived += (sender, e) => { if (e.Data != null) AppendLogTextSafe("ERROR_STREAM: " + e.Data + "\r\n"); };
+                    process.StartInfo = psi;
+                    // Включаем EnableRaisingEvents, чтобы событие Exited сработало
+                    process.EnableRaisingEvents = true;
 
-                    p.Start();
-                    p.BeginOutputReadLine();
-                    p.BeginErrorReadLine();
-                    p.WaitForExit();
+                    // Создаем TaskCompletionSource для асинхронного ожидания завершения процесса
+                    var tcs = new System.Threading.Tasks.TaskCompletionSource<int>();
+                    process.Exited += (s, e) => tcs.TrySetResult(process.ExitCode); // Устанавливаем результат, когда процесс завершится
 
-                    if (p.ExitCode == 0)
+                    // Подписываемся на события вывода асинхронно
+                    process.OutputDataReceived += (sender, e) =>
                     {
-                        AppendLogTextSafe("Backup process completed successfully (as reported by PowerShell script exit code).\r\n");
+                        if (e.Data != null) AppendLogTextSafe(e.Data + "\r\n");
+                    };
+                    process.ErrorDataReceived += (sender, e) =>
+                    {
+                        if (e.Data != null) AppendLogTextSafe("ERROR_STREAM: " + e.Data + "\r\n");
+                    };
+
+                    if (!process.Start()) // Проверяем, удалось ли запустить процесс
+                    {
+                        AppendLogTextSafe("Failed to start the PowerShell process.\r\n");
+                        tcs.TrySetResult(-1); // Устанавливаем код ошибки, если не удалось запустить
                     }
                     else
                     {
-                        AppendLogTextSafe($"Backup process exited with code: {p.ExitCode}. Check log for details from PowerShell script.\r\n");
+                        process.BeginOutputReadLine(); // Начинаем асинхронное чтение стандартного вывода
+                        process.BeginErrorReadLine();  // Начинаем асинхронное чтение стандартного потока ошибок
+                    }
+
+                    // Асинхронно ждем завершения задачи, которая завершится при выходе процесса
+                    int exitCode = await tcs.Task;
+
+                    if (exitCode == 0)
+                    {
+                        AppendLogTextSafe($"Backup process completed successfully (PowerShell Exit Code: {exitCode}).\r\n");
+                    }
+                    else
+                    {
+                        AppendLogTextSafe($"Backup process exited with code: {exitCode}. Check log for details from PowerShell script.\r\n");
                     }
                 }
             }
             catch (System.ComponentModel.Win32Exception ex) when (ex.NativeErrorCode == 1223) // ERROR_CANCELLED (UAC)
             {
-                AppendLogTextSafe("Operation cancelled by user (UAC prompt denied) or administrator privileges not granted for PowerShell.\r\n");
-                MessageBox.Show(this, "The backup operation was cancelled or administrator privileges were not granted.", "Operation Cancelled", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                AppendLogTextSafe("Operation cancelled by user (UAC prompt denied) or administrator privileges were not granted for PowerShell.\r\n");
+                // MessageBox.Show(this, "The backup operation was cancelled or administrator privileges were not granted.", "Operation Cancelled", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
             catch (Exception ex)
             {
-                AppendLogTextSafe($"Exception running backup script: {ex.ToString()}\r\n");
+                AppendLogTextSafe($"Exception during backup process execution: {ex.ToString()}\r\n");
             }
         }
 
