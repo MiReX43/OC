@@ -1,0 +1,493 @@
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\bin\Debug\DataBase.exe.config
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\bin\Debug\DataBase.exe
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\bin\Debug\DataBase.pdb
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.exe
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.pdb
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.pdb
+E:\Курсовая 4-к\DataBase\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\DataBase.exe.config
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\DataBase.exe
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\DataBase.pdb
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.exe
+E:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.pdb
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.pdb
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\EPPlus.dll
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\EPPlus.Interfaces.dll
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\EPPlus.System.Drawing.dll
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\EPPlus.xml
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Курсовая 4-к\Резерв\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\EPPlus.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.pdb
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForm.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\DataBase.exe.config
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\DataBase.exe
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\DataBase.pdb
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\EPPlus.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForm.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.exe
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.pdb
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForm1.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm2.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm3.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm4.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm5.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForm1.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm2.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm3.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm4.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm5.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.Registration.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.Registration.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.FormTest.resources
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.FormTest.resources
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Newtonsoft.Json.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\RestSharp.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Buffers.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.CodeDom.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Data.Odbc.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Data.OleDb.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Data.SqlClient.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Drawing.Common.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.IO.Packaging.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.IO.Ports.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Memory.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.AccessControl.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Permissions.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Principal.Windows.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Threading.AccessControl.xml
+D:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.Fody.CopyLocal.cache
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\Newtonsoft.Json.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\RestSharp.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Buffers.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.CodeDom.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Data.Odbc.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Data.OleDb.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Data.SqlClient.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Drawing.Common.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.IO.Packaging.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.IO.Ports.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Memory.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.AccessControl.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Permissions.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Security.Principal.Windows.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\bin\Debug\System.Threading.AccessControl.xml
+E:\Курсовая 4-к\Резерв3\DataBase\DataBase\obj\Debug\DataBase.csproj.Fody.CopyLocal.cache
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\EPPlus.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Newtonsoft.Json.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\RestSharp.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Buffers.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.CodeDom.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.Odbc.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.OleDb.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.SqlClient.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Drawing.Common.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.Packaging.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.Ports.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Memory.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.AccessControl.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Permissions.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Principal.Windows.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Threading.AccessControl.xml
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForm.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForm1.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm2.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm3.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm4.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm5.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.FormTest.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Registration.resources
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.Fody.CopyLocal.cache
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.pdb
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.exe.config
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.exe
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.pdb
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\EPPlus.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.SystemEvents.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Newtonsoft.Json.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\RestSharp.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Buffers.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.CodeDom.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Configuration.ConfigurationManager.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.Odbc.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.OleDb.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.SqlClient.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Diagnostics.EventLog.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Drawing.Common.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.FileSystem.AccessControl.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.Packaging.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.Ports.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Memory.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.AccessControl.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Cng.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Pkcs.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Xml.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Permissions.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Principal.Windows.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.ServiceModel.Syndication.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.ServiceProcess.ServiceController.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Text.Encoding.CodePages.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Threading.AccessControl.xml
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForm.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForm1.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm2.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm3.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm4.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm5.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.FormTest.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Registration.resources
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.Fody.CopyLocal.cache
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.exe
+H:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.pdb
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.exe.config
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.exe
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.pdb
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\EPPlus.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.SystemEvents.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Newtonsoft.Json.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\RestSharp.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Buffers.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.CodeDom.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Configuration.ConfigurationManager.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.Odbc.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.OleDb.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.SqlClient.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Diagnostics.EventLog.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Drawing.Common.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.FileSystem.AccessControl.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.Packaging.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.Ports.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Memory.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.AccessControl.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Cng.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Pkcs.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Xml.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Permissions.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Principal.Windows.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.ServiceModel.Syndication.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.ServiceProcess.ServiceController.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Text.Encoding.CodePages.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Threading.AccessControl.xml
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForm.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForm1.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm2.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm3.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm4.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm5.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.FormTest.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Registration.resources
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.Fody.CopyLocal.cache
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.exe
+I:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.pdb
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.exe.config
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.exe
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\DataBase.pdb
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\EPPlus.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\Newtonsoft.Json.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\RestSharp.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Buffers.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.CodeDom.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.Odbc.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.OleDb.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Data.SqlClient.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Drawing.Common.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.Packaging.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.IO.Ports.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Memory.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.AccessControl.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Permissions.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Security.Principal.Windows.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\bin\Debug\System.Threading.AccessControl.xml
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForm.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForm1.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm2.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm3.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm4.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.ChangeForms.ChangeForm5.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.LoginForm.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.FormTest.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.Registration.resources
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.Fody.CopyLocal.cache
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.exe
+E:\Курсовая 4-к\Для диплома\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Main\Share\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Main\Share\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+C:\Main\Share\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Main\Share\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Main\Share\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Main\Share\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Main\Share\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Main\Share\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Main\Share\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Main\Share\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Main\Share\DataBase\DataBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\EPPlus.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\RestSharp.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Buffers.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.CodeDom.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Data.Odbc.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Data.OleDb.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Data.SqlClient.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Drawing.Common.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.IO.Packaging.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.IO.Ports.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Memory.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Security.AccessControl.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Security.Permissions.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Security.Principal.Windows.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\System.Threading.AccessControl.xml
+C:\Main\Share\DataBase\DataBase\obj\Debug\DataBase.csproj.Fody.CopyLocal.cache
+C:\Main\Share\DataBase\DataBase\obj\Debug\DataBase.csproj.Up2Date
+C:\Main\Share\DataBase\DataBase\bin\Debug\ActiveDirectoryObjectPicker.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\AeroWizard.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\GroupControls.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\Krypton.Toolkit.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\Microsoft.Win32.TaskSchedulerEditor.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\TimeSpan2.xml
+C:\Main\Share\DataBase\DataBase\bin\Debug\TimeSpan2.Core.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\ActiveDirectoryObjectPicker.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\AeroWizard.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\EPPlus.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\GroupControls.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\Krypton.Toolkit.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\Microsoft.Win32.TaskSchedulerEditor.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\RestSharp.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Buffers.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.CodeDom.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Data.Odbc.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Data.OleDb.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Drawing.Common.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.IO.Packaging.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.IO.Ports.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Memory.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Security.Permissions.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\TimeSpan2.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\bin\Debug\TimeSpan2.Core.xml
+C:\Users\dengi\source\OC\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\dengi\source\OC\DataBase\DataBase\obj\Debug\DataBase.Main.resources
+C:\Users\dengi\source\OC\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\dengi\source\OC\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\dengi\source\OC\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\dengi\source\OC\DataBase\DataBase\obj\Debug\DataBase.csproj.Fody.CopyLocal.cache
+C:\Users\dengi\source\OC\DataBase\DataBase\obj\Debug\DataBase.csproj.Up2Date
+C:\Users\dengi\source\OC\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\dengi\source\OC\DataBase\DataBase\obj\Debug\DataBase.pdb
